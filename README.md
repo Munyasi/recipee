@@ -1,2 +1,2 @@
-# recipee
-Recipee app api source code
+# recipe
+Recipe app api source code
